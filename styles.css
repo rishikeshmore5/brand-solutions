@@ -1,0 +1,217 @@
+* {
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+}
+
+.navbar-0 {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: #0987c4;
+}
+
+nav {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.navbar {
+  background-color: white;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.logo1 {
+  padding-top: 0;
+  background-color: white;
+  height: 5rem;
+}
+
+.logo2 {
+  background-color: white;
+  height: 2rem;
+  padding-left: 1rem;
+}
+
+.nav-content {
+  cursor: pointer;
+  color: #0987c4;
+  list-style: none;
+  display: inline;
+  padding-right: 5rem;
+  font-size: 1.75rem;
+  font-family: "Oswald", sans-serif;
+}
+
+.nav-content a {
+  text-decoration: none;
+}
+
+.nav-content a:hover {
+  color: red;
+}
+
+.img-size {
+  width: 300px;
+  height: 900px;
+}
+
+/* section-home-1  */
+
+.section-home-1 {
+  padding: 4rem 10rem 4rem 10rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+/* about-us  */
+
+.about-us-heading {
+  text-align: center;
+  background-color: #0987c4;
+  font-size: 6rem;
+  color: red;
+  text-decoration: underline;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.about-us {
+  background-color: #0987c4;
+  padding: 4rem 10rem 10rem 10rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+/* our-services  */
+
+.our-services {
+  padding-bottom: 5rem;
+}
+
+.our-services-heading {
+  text-align: center;
+
+  font-size: 6rem;
+  color: red;
+  text-decoration: underline;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.card {
+  display: inline-block !important;
+  margin: 3rem 7rem 3rem 7rem;
+  text-align: center;
+}
+
+.cards-content {
+  text-align: center;
+}
+
+.card-body {
+  background-color: #0987c4;
+}
+
+.card-title {
+  font-size: 2rem;
+  color: red !important;
+  text-decoration: underline;
+  padding-bottom: 15px;
+}
+
+.branding {
+  margin-left: 20rem;
+  margin-right: 10rem;
+}
+
+.promotional {
+  margin-left: 10rem;
+  margin-right: 20rem;
+}
+
+.contact-us {
+  background-color: #0987c4;
+}
+
+.contact-info {
+  display: inline-block;
+}
+
+.personal-info {
+  background-color: #56b0dd;
+  font-size: larger;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: inline-block;
+  border: red solid 5px;
+  margin-left: 15rem;
+  margin-top: 5rem;
+  border-radius: 20px;
+}
+
+.service-info {
+  background-color: #56b0dd;
+  font-size: larger;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: inline-block;
+  border: red solid 5px;
+  margin-left: 12rem;
+  margin-right: 11rem;
+  margin-bottom: 100px;
+
+  border-radius: 20px;
+}
+
+.verify-submit {
+  font-size: larger;
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+  margin-left: 35rem;
+  margin-bottom: 5rem;
+}
+
+/* footer  */
+
+#footer {
+  text-align: center;
+  padding: 2px 2px;
+}
+
+.social-icons {
+  margin: 20px 10px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: black;
+}
+
+/* #Home {
+  
+}
+
+#About-Us {
+  
+}
+
+#Our-Services {
+  
+}
+
+#Contact-Us {
+  
+} */
